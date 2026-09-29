@@ -3,7 +3,11 @@ bluecat-py@wsl:~$ whoami
 bluecat-py
 
 bluecat-py@wsl:~$ cat about.txt
-
+==========
+18 y/o tinkering with computers, code, and Linux. Currently studying Informatics at Poliban. Interested in backend development, systems, and eventually cybersecurity.
+==========
+bluecat-py@wsl:~$ cat status.txt
+> still figuring it out.
 ```
 
 ---
