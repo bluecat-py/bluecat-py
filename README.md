@@ -42,13 +42,6 @@ still figuring it out.
 
 ---
 
-## $ gh stats
-
-<p align="center">
-  <img height="170" alt="bluecat-py's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bluecat-py&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
-
----
 
 ```console
 bluecat-py@wsl:~$ exit
