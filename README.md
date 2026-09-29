@@ -1,7 +1,7 @@
 ## $ whoami
 ```console
 bluecat-py@wsl:~$ whoami
-bluecat-py
+Fathurrahim
 
 bluecat-py@wsl:~$ cat about.txt
 18 y/o tinkering with computers, code, and Linux. Currently studying Informatics at Poliban.
