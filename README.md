@@ -36,14 +36,16 @@ still figuring it out.
 
 ---
 
-## $ wakatime --stats
+## $ hackatime --stats
 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 1 hr 23 mins
 
-Python   1 min                 █████████████████████████   100.00 %
+Python      1 hr 19 mins    ████████████████████████░    95.01 %
+Text        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░     2.40 %
+Markdown    0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░     0.24 %
 ```
 
 <!--END_SECTION:waka-->
