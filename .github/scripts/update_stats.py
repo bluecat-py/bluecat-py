@@ -14,9 +14,9 @@ def get_key():
 KEY = get_key()
 
 ENDPOINTS = [
-    (f"{BASE}/api/v1/stats", True),
-    (f"{BASE}/api/hackatime/v1/users/current/stats/last_7_days", True),
-    (f"{BASE}/api/v1/users/{USER}/stats", False),
+    (f"{BASE}/api/hackatime/v1/users/current/stats/all_time", True),
+    (f"{BASE}/api/v1/users/{USER}/stats?start_date=2020-01-01", False),
+    (f"{BASE}/api/hackatime/v1/users/current/stats/last_year", True),
 ]
 
 def fetch(url, auth):
