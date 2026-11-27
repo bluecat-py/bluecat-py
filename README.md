@@ -27,9 +27,9 @@ still figuring it out.
 
 ```markdown
 [x] Learn Linux
-[ ] Currently building : SortLab
-[ ] Currently learning : SQL
-[ ] Next up            : Godot Engine
+[ ] Currently building : Study-tracker2
+[ ] Currently learning : JavaScript
+[ ] Next up            : Web Development
 ```
 
 
