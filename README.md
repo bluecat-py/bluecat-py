@@ -26,7 +26,7 @@ still figuring it out.
 ## $ cat ~/now.md
 
 ```markdown
-[x] Learn Linux
+[x] Learn SQL
 [ ] Currently building : Study-tracker2
 [ ] Currently learning : JavaScript
 [ ] Next up            : Web Development
