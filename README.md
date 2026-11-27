@@ -41,13 +41,13 @@ still figuring it out.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 10 mins
+Total Time: 17 hrs 8 mins
 
-C           7 hrs 55 mins   █████████████░░░░░░░░░░░░    52.16 %
-Python      5 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░    33.76 %
-SQL         2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░    16.07 %
-Markdown    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░     0.24 %
-Text        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░     0.22 %
+C           7 hrs 55 mins   ████████████░░░░░░░░░░░░░    46.21 %
+Python      6 hrs 59 mins   ██████████░░░░░░░░░░░░░░░    40.77 %
+SQL         2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░    15.76 %
+Text        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░     0.39 %
+Other       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░     0.39 %
 ```
 
 <!--END_SECTION:waka-->
